@@ -6,6 +6,6 @@ BOSS GNU/Linux is reaped from Debian.
 
 ###[Ansible](https://github.com/judeaugustinej/Boss-in-the-cloud/tree/master/Ansible)
 
-###[chef]
+###[chef]()
 
-###[puppet]
+###[puppet]()
