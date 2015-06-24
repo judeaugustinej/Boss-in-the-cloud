@@ -1,5 +1,8 @@
 ## Getting started with ansile
-
+Ansible
+    Configuration Management tool
+    Requires server and client with ssh connections
+    configuration are written in ansible playbook
 
 * [Articles](#articles)
 * [other repos](#similar-github-repos)
