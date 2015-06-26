@@ -35,7 +35,7 @@ Ansible
 [up_pdf]: http://www.beautyorange.com/wp-content/uploads/2015/03/Ansible_UaR_Preview_Edition.pdf
 [g_cc]: http://docs.ansible.com/
 [acb_web]: http://ansiblecookbook.com/
-[acb_web]: http://ansiblecookbook.com/downloads/ansiblecookbook.en.pdf
+[acb_pdf]: http://ansiblecookbook.com/downloads/ansiblecookbook.en.pdf
 
 ## Similar GitHub repos
 
