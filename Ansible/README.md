@@ -24,7 +24,7 @@ Ansible
 
 ## Guides
 
-* ** Ansible Documentation** [[web][g_cc]]
+* **Ansible Documentation** [[web][g_cc]]
 * **Ansible Documentation(Release 1.7)** [[pdf][g_cci_pdf]]
 * **ansible-summary** [[pdf][g_cc_pdf]]
 
