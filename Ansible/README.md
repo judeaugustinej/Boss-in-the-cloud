@@ -24,11 +24,11 @@ Ansible
 
 ## Guides
 
-* ** Ansible Documentationy** [[web][g_cc_web]]
+* ** Ansible Documentation** [[web][g_cc]]
 * **Ansible Documentation(Release 1.7)** [[pdf][g_cci_pdf]]
 * **ansible-summary** [[pdf][g_cc_pdf]]
 
-[g_cc_web]: http://docs.ansible.com/
+[g_cc]: http://docs.ansible.com/
 [g_cci_pdf]: http://www-uxsup.csx.cam.ac.uk/~jw35/docs/ansible/ansible-docs-1.7.pdf
 [g_cc_pdf]: http://www-uxsup.csx.cam.ac.uk/~jw35/docs/ansible/ansible-summary.pdf
 ## Similar GitHub repos
