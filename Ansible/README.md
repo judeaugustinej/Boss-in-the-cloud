@@ -44,7 +44,7 @@ Ansible
 
 ## Videos
 
-* Justin Weissig - **19-minutes-with-ansible-part-1-4** [v_cci]
+* Justin Weissig - **19-minutes-with-ansible-part-1-4** [[][v_cci]]
 * Justin Weissig - **learning-ansible-with-vagrant-part-2-4** [v_cci2]
 * Justin Weissig - **configuration-management-with-ansible-part-3-4** [v_cci3]
 * Justin Weissig - **zero-downtime-deployments-with-ansible-part-4-4** [v_cci4]
