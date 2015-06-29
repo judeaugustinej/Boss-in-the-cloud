@@ -37,12 +37,12 @@ metadata.json --- tells vagrant what provider the box works with
 
 #Installation
 
-*Download VirtualBox
+* Download VirtualBox
 
-*Download Vagrant
+* Download Vagrant
 
 
-*Create a new Vagrant box (vagrant init rbayliss/debian-wheezy) 
+* Create a new Vagrant box (vagrant init rbayliss/debian-wheezy) 
 
 * Start the Vagrant box (vagrant up)
 
