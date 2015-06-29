@@ -1,4 +1,10 @@
-###Vagrant is a command line tool. Here are the most important commands:
+#VAGRANT?
+* Quickly spin up new developers with a powerful, custom stack
+* Share your environment with your team
+* Maintain multiple environments
+* Emulate a production environment
+
+###Vagrant  commands 
 
 * vagrant init - initialize a new vagrant box in the current directory
 * vagrant up - start an existing vagrant environment (box) and provision it
