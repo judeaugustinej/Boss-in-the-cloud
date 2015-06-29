@@ -9,3 +9,5 @@ BOSS GNU/Linux is reaped from Debian.
 ###[chef]()
 
 ###[puppet]()
+
+###[Vagrant]()
