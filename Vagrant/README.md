@@ -13,6 +13,11 @@ The goal of Vagrant is to make it so simple to create a local development enviro
 
 ## Articles
 
+* Tyler Bird ** Building a Vagrant Box from Start to Finish** [[web][a_cb]]
+
+
+[a_cb]: https://blog.engineyard.com/2014/building-a-vagrant-box
+
 ## Guides
 
 * **VAGRANT?** [[pdf][g_rd]]
