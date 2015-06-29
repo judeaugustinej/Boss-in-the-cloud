@@ -8,6 +8,7 @@ Ansible
 
 * [Articles](#articles)
 * [Guides](#guides)
+* [Videos](#videos)
 * [other repos](#similar-github-repos)
 
 
@@ -18,9 +19,12 @@ Ansible
 
 * Justin Ellingwood – **How to Install and Configure Ansible on ubuntu 12.04 VPS** [[web][a_cb]]
 * Justin Ellingwood – **How to Create ansible playbooks to automate system configuration on ubuntu** [[web][a_ar]]
+* Curtis Collicutt  - **Provision Configure Openstack instances one ansible run**  [[web][a_aro]]
+
 
 [a_cb]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-an-ubuntu-12-04-vps
 [a_ar]: https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
+[a_aro]: http://serverascode.com//2014/08/19/provision-openstack-instances-with-ansible.html
 
 ## Guides
 
@@ -37,7 +41,22 @@ Ansible
 [acb_web]: http://ansiblecookbook.com/
 [acb_pdf]: http://ansiblecookbook.com/downloads/ansiblecookbook.en.pdf
 
+
+## Videos
+
+* Justin Weissig - **19-minutes-with-ansible-part-1-4** [[web][v_cci]]
+* Justin Weissig - **learning-ansible-with-vagrant-part-2-4** [[web][v_cci2]]
+* Justin Weissig - **configuration-management-with-ansible-part-3-4** [[web][v_cci3]]
+* Justin Weissig - **zero-downtime-deployments-with-ansible-part-4-4** [[web][v_cci4]]
+
+[v_cci]: https://sysadmincasts.com/episodes/43-19-minutes-with-ansible-part-1-4
+[v_cci2]: https://sysadmincasts.com/episodes/45-learning-ansible-with-vagrant-part-2-4
+[v_cci3]: https://sysadmincasts.com/episodes/46-configuration-management-with-ansible-part-3-4
+[v_cci4]: https://sysadmincasts.com/episodes/47-zero-downtime-deployments-with-ansible-part-4-4
+
+
 ## Similar GitHub repos
 
 * [ansible-tuto](https://github.com/leucos/ansible-tuto)
 * [ansible-examples](https://github.com/ansible/ansible-examples)
+* [simplestack](https://github.com/ccollicutt/simplestack)
