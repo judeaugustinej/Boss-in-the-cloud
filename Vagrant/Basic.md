@@ -7,14 +7,14 @@
 * vagrant destroy - completely destroy a vagrant box (delete all the things)
 
 
-########Vagrant box 
+#####Vagrant box 
 An instance of a VirtualBox VM that has been provisioned and
 started using Vagrant
 
-########Base box - a stored VirtualBox machine packaged into a single file. Think of this
+#####Base box - a stored VirtualBox machine packaged into a single file. Think of this
 as the template for your Vagrant box.
 
-########Provision - the configuration step that comes after the Vagrant box loads.
+#####Provision - the configuration step that comes after the Vagrant box loads.
 
-########Vagrantfile - a single file that defines what a particular Vagrant box is, including
+#####Vagrantfile - a single file that defines what a particular Vagrant box is, including
 the base box, network settings, and provisioning.
