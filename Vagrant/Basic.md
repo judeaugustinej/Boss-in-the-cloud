@@ -36,9 +36,9 @@ box.ovf       --- defines the virtual hardware for the box.
 metadata.json --- tells vagrant what provider the box works with
 
 #Installation
-1.Download VirtualBox
-2.Download Vagrant
-3.Create a new Vagrant box (vagrant init rbayliss/debian-wheezy) 
-4. Start the Vagrant box (vagrant up)
+*Download VirtualBox
+*Download Vagrant
+*Create a new Vagrant box (vagrant init rbayliss/debian-wheezy) 
+*Start the Vagrant box (vagrant up)
 
 
