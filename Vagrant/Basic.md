@@ -21,3 +21,10 @@ Configuration step that comes after the Vagrant box loads.
 #####Vagrantfile 
 A single file that defines what a particular Vagrant box is, including
 the base box, network settings, and provisioning.
+
+#####package.box
+When using the VirtualBox provider, it’s a tarred, gzip file containing the following:
+Vagrantfile 
+box-disk.vmdk --- box-disk.vmdk is the virtual hard disk drive
+box.ovf       --- defines the virtual hardware for the box.
+metadata.json --- tells vagrant what provider the box works with
