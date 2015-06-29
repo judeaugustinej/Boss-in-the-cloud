@@ -15,5 +15,6 @@ The goal of Vagrant is to make it so simple to create a local development enviro
 
 ## Guides
 
+* **VAGRANT?** [[pdf][g_rd]]
 
-
+[g_rd]: https://nerdsummit.org/sites/default/files/slides/Vagrant.pdf
