@@ -28,3 +28,5 @@ OpenStack is a cloud operating system that controls large pools of compute, stor
 
 * [debian-ubuntu-centos-rhel-linux-install-pipclient](http://www.cyberciti.biz/faq/debian-ubuntu-centos-rhel-linux-install-pipclient/)
 * [Python APIs: The best-kept secret of OpenStack](http://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/)
+* [How to launch an instance on OpenStack (III): Python novaclient library](https://albertomolina.wordpress.com/2013/11/20/how-to-launch-an-instance-on-openstack-iii-python-novaclient-library/)
+* [Installing and Configuring Piston OpenStack](http://docs.pistoncloud.com/installation/index.html)
