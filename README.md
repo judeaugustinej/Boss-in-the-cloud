@@ -11,3 +11,5 @@ BOSS GNU/Linux is reaped from Debian.
 ###[puppet]()
 
 ###[Vagrant](https://github.com/judeaugustinej/Boss-in-the-cloud/tree/master/Vagrant)
+
+[DevOps-WhitePaper](https://www.appdynamics.com/media/uploaded-files/White_Paper_-_An_Intro_to_DevOps.pdf)
