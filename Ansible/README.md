@@ -21,7 +21,7 @@ Ansible
 * Justin Ellingwood – **How to Create ansible playbooks to automate system configuration on ubuntu** [[web][a_ar]]
 * Curtis Collicutt  - **Provision Configure Openstack instances one ansible run**  [[web][a_aro]]
 * Justin Ellingwood - **How to Use Ansible Roles to Abstract your Infrastructure Environment** [[web][a_rol]]
-* Hector Castro     - **Creating Ansible Roles from Scratch: Part 1 ** [[web][a_roo]]
+* Hector Castro     - **Creating Ansible Roles from Scratch: Part 1** [[web][a_roo]]
 
 [a_cb]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-an-ubuntu-12-04-vps
 [a_ar]: https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
