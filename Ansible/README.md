@@ -60,3 +60,4 @@ Ansible
 * [ansible-tuto](https://github.com/leucos/ansible-tuto)
 * [ansible-examples](https://github.com/ansible/ansible-examples)
 * [simplestack](https://github.com/ccollicutt/simplestack)
+* [ansible-provision-openstack](https://github.com/ccollicutt/ansible-provision-openstack)
