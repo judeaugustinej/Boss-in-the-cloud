@@ -16,7 +16,7 @@ OpenStack is a cloud operating system that controls large pools of compute, stor
 ## Articles
 
 * **OpenStack Juno Neutron Deployment**[[web][a_cc]]
-* Sharone Zitzman – **OpenStack Wiki in Short – A Quick Guide to Open Cloud** [[web][a_cb]]
+* Sharone Zitzman – **OpenStack Wiki in Short – A Quick Guide to Open Cloud** [[web][a_cc]]
 * Anita Kuno  - **Installing Devstack With Vagrant** [[web][a_cb]]                      
 
 [a_cb]: http://getcloudify.org/2014/07/18/openstack-wiki-open-cloud.html#at_pco=cfd-1.0&at_ab=per-2&at_pos=0&at_tot=3&at_si=5593a074a7e071e7
