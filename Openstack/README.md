@@ -4,7 +4,26 @@ OpenStack is a cloud operating system that controls large pools of compute, stor
 
 
 ##Process WorkFlow
+####Horzion 
+This component provides a web-based portal to interact with all the underlying OpenStack services,
+such as NOVA, Neutron, etc.
+![horizon](https://cloud.githubusercontent.com/assets/3624858/8539652/d21592e8-249b-11e5-8938-3796c2f81ada.png)
 
+####Nova
+OpenStack compute (codename: Nova) is the component which allows the user to create and manage virtual servers using the machine images. It is the brain of the Cloud. OpenStack compute provisions and manages large networks of virtual machines.
+![nova](https://cloud.githubusercontent.com/assets/3624858/8539654/d49f4b80-249b-11e5-8573-7dc1a8b852e0.png)
+
+####Keystone
+This provides a central directory of users mapped to the OpenStack services. It is used to provide an authentication and authorization service for other OpenStack services.
+![Keystone](https://cloud.githubusercontent.com/assets/3624858/8539655/d60ac1f2-249b-11e5-9de8-2c7e18d32791.png)
+
+####Neutron
+It is a pluggable, scalable and API-driven system for managing networks. OpenStack networking is useful for VLAN management, management of IP addresses to different VMs and management of firewalls using these components.
+![neutron](https://cloud.githubusercontent.com/assets/3624858/8539656/d7773944-249b-11e5-9671-e5114b23b30e.png)
+
+####Glance
+This provides the discovery, registration and delivery services for the disk and server images. It stores and retrieves the virtual machine disk image.
+![glance](https://cloud.githubusercontent.com/assets/3624858/8539657/d87b6ca2-249b-11e5-8033-abec6f72758a.png)
 
 ### Contents
 
