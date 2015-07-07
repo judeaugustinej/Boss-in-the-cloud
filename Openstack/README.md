@@ -41,11 +41,13 @@ This provides the discovery, registration and delivery services for the disk and
 Recommended: Steve Yegge – **OpenStack DocumentationOpenStack Installation Guide for Ubuntu 14.04** [[web][a_sy]]
 * **OpenStack Juno Neutron Deployment**[[web][a_cc]]
 * **OpenStack Fundamentals Training Part 2 Compute**[[pdf][a_wb]]
+* **Professional OpenStack** [[blog][a_bg]]
 * Anuj Sehgal     - **Introduction to OpenStack**[[pdf][a_pd]]
 * Sharone Zitzman – **OpenStack Wiki in Short – A Quick Guide to Open Cloud** [[web][a_cc]]
 * Sharone Zitzman - **What is Openstack?** [[web][a_ac]]
 * Anita Kuno  - **Installing Devstack With Vagrant** [[web][a_cb]]                      
 
+[a_bg]: http://openstack.prov12n.com/author/openstackpro/
 [a_sy]: http://docs.openstack.org/kilo/install-guide/install/apt/content/
 [a_cb]: http://getcloudify.org/2014/07/18/openstack-wiki-open-cloud.html#at_pco=cfd-1.0&at_ab=per-2&at_pos=0&at_tot=3&at_si=5593a074a7e071e7
 [a_wb]: http://cdn.oreillystatic.com/en/assets/1/event/61/OpenStack%20Fundamentals%20Training%20Part%202%20-%20Compute%20Presentation.pdf
