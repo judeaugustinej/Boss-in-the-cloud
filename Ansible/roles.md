@@ -7,7 +7,7 @@ these types of links between files are automatic based on a specific directory h
 #File structure
 ```
 +--Roles--+
-   `-- git_ansible
+   `-- nginx_ansible
          `--
             |-- files
             |   `-- main.yml
@@ -106,14 +106,14 @@ dependencies:
   - { role: apt }
 ```
 
-#nignxPlay.yml
+#nignx.yml
 ```
 ---
 - hosts: localhost
   roles:
-    - role: nginx
+    - role: nginx_ansible
 ```
 #----END
 ```
-$ansible-playbook nignxPlay.yml
+$ansible-playbook nignx.yml
 ```
