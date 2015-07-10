@@ -38,3 +38,31 @@ This directory contains all of the tasks that would normally be in a playbook. T
 
 ##vars
 Variables for the roles can be specified in this directory and used in your configuration files.
+
+#With roles Playbook
+```
+---
+- hosts: droplets
+  tasks:
+    - name: Installs nginx web server
+      apt: pkg=nginx state=installed update_cache=true
+      notify:
+        - start nginx
+
+    - name: Upload default index.php for host
+      copy: src=static_files/index.php dest=/usr/share/nginx/www/ mode=0644
+      register: php
+      ignore_errors: True
+
+    - name: Remove index.html for host
+      command: rm /usr/share/nginx/www/index.html
+      when: php|success
+
+    - name: Upload default index.html for host
+      copy: src=static_files/index.html dest=/usr/share/nginx/www/ mode=0644
+      when: php|failed
+
+  handlers:
+    - name: start nginx
+      service: name=nginx state=started
+```
