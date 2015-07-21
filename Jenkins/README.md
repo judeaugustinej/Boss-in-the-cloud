@@ -33,43 +33,44 @@ Continuous Integration is about reducing risk by providing faster feedback
  Notify stakeholders of build status
  …and much more  
  
- ##How Jenkins works - Setup
+ ##How Jenkins works 
  
- When setting up a project in Jenkins, out of the box you have
-the following general options:
- Associating with a version control server
- Triggering builds
- Polling, Periodic, Building based on other projects
- Execution of shell scripts, bash scripts, Ant targets, and Maven
-targets
- Artifact archival
- Publish JUnit test results and Javadocs
- Email notifications
- As stated earlier, plugins expand the functionality even
+#### Setup
+ 
+ * When setting up a project in Jenkins, out of the box you have options
+ * Associating with a version control server
+ * Triggering builds
+ * Polling, Periodic, Building based on other projects
+ * Execution of shell scripts, bash scripts, Ant targets, and Maven
+ targets
+ * Artifact archival
+ * Publish JUnit test results and Javadocs
+ * Email notifications
+ * As stated earlier, plugins expand the functionality even
 further 
 
 ##How Jenkins works - Building
 
- Once a project is successfully created in Jenkins, all future
+ * Once a project is successfully created in Jenkins, all future
 builds are automatic
  Building
- Jenkins executes the build in an executer
- By default, Jenkins gives one executer per core on the build server
- Jenkins also has the concept of slave build servers
- Useful for building on different architectures
- Distribution of load 
+ * Jenkins executes the build in an executer
+ * By default, Jenkins gives one executer per core on the build server
+ * Jenkins also has the concept of slave build servers
+ * Useful for building on different architectures
+ * Distribution of load 
 
 ##How Jenkins works - Reporting
 
- Jenkins comes with basic reporting features
- Keeping track of build status
- Last success and failure
- “Weather” – Build trend
- These can be greatly enhanced with the use of pre-build
+ * Jenkins comes with basic reporting features
+ * Keeping track of build status
+ * Last success and failure
+ * “Weather” – Build trend
+ * These can be greatly enhanced with the use of pre-build
 plugins
- Unit test coverage
- Test result trending
- Findbugs, Checkstyle, PMD 
+ * Unit test coverage
+ * Test result trending
+ * Findbugs, Checkstyle, PMD 
 designed to help identify and fix integration and regression issues faster, resulting in
 smoother, quicker delivery, and fewer bugs
 
