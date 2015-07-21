@@ -10,6 +10,20 @@ immediately.
 
 Continuous Integration is about reducing risk by providing faster feedback
 
+##Jenkins Tool
+
+#### Code Repositories
+ SVN, Mercurial, Git
+ 
+####Continuous Build Systems
+ Jenkins, Bamboo, Cruise Control
+
+#### Test Frameworks
+ JUnit,Cucumber, CppUnit
+
+#### Artifact Repositories
+ Nexus, Artifactory, Archiva
+ 
 designed to help identify and fix integration and regression issues faster, resulting in
 smoother, quicker delivery, and fewer bugs
 
