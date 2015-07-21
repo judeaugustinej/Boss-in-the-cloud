@@ -81,3 +81,4 @@ The practice of automatically deploying every successful build directly into pro
 generally known as Continuous Deployment.
 
 http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf
+http://www.cs.colorado.edu/~kena/classes/5828/s12/presentation-materials/bowesjesse.pdf
