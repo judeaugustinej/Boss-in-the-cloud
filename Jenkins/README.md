@@ -6,6 +6,8 @@ for changes. Whenever a change is detected, this tool automatically compiles and
 If something goes wrong, the tool immediately notifies the developers so that they can fix the issue
 immediately.
 
+![jenkins workflow](https://cloud.githubusercontent.com/assets/3624858/8793796/38867792-2f99-11e5-89cf-a2361df0b102.png)
+
 Continuous Integration is about reducing risk by providing faster feedback
 
 designed to help identify and fix integration and regression issues faster, resulting in
