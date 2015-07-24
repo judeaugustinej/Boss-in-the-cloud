@@ -45,7 +45,9 @@ Recommended: Steve Yegge – **OpenStack DocumentationOpenStack Installation Gui
 * Anuj Sehgal     - **Introduction to OpenStack**[[pdf][a_pd]]
 * Sharone Zitzman – **OpenStack Wiki in Short – A Quick Guide to Open Cloud** [[web][a_cc]]
 * Sharone Zitzman - **What is Openstack?** [[web][a_ac]]
-* Anita Kuno  - **Installing Devstack With Vagrant** [[web][a_cb]]                      
+* Anita Kuno  - **Installing Devstack With Vagrant** [[web][a_cb]]
+* **All in single node installation for openstack**- by Flux7 Labs [[web][a_i1]]
+* **Openstack in multi-node installation**- by Flux7 Labs [[web][a_i2]]
 
 [a_bg]: http://openstack.prov12n.com/author/openstackpro/
 [a_sy]: http://docs.openstack.org/kilo/install-guide/install/apt/content/
@@ -55,6 +57,8 @@ Recommended: Steve Yegge – **OpenStack DocumentationOpenStack Installation Gui
 [a_cc]: http://www.opencloudblog.com/?p=557
 [a_ac]: http://getcloudify.org/2014/07/10/what-is-openstack-tutorial.html
 [a_cb]: http://anteaya.info/blog/2013/09/01/installing-devstack-with-vagrant/
+[a_i1]: http://blog.flux7.com/blogs/openstack/tutorial-install-single-node-openstack
+[a_i2]: http://blog.flux7.com/blogs/openstack/tutorial-how-to-install-multi-nodes-in-openstack
 
 ## Language-specific
 
