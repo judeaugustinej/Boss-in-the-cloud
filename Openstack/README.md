@@ -40,6 +40,7 @@ This provides the discovery, registration and delivery services for the disk and
 
 Recommended: Steve Yegge – **OpenStack DocumentationOpenStack Installation Guide for Ubuntu 14.04** [[web][a_sy]]
 Recommended: OpenStack Admin User Guide [[web][a_au]]
+* How to Migrate an Instance with Zero Downtime: OpenStack Live Migration with KVM Hypervisor and NFS Shared Storage [[blog][a_bc]]
 * **OpenStack Juno Neutron Deployment**[[web][a_cc]]
 * **OpenStack Fundamentals Training Part 2 Compute**[[pdf][a_wb]]
 * **Professional OpenStack** [[blog][a_bg]]
@@ -50,6 +51,7 @@ Recommended: OpenStack Admin User Guide [[web][a_au]]
 * **All in single node installation for openstack**- by Flux7 Labs [[web][a_i1]]
 * **Openstack in multi-node installation**- by Flux7 Labs [[web][a_i2]]
 
+[a_bc]: https://www.mirantis.com/blog/tutorial-openstack-live-migration-with-kvm-hypervisor-and-nfs-shared-storage/
 [a_au]: http://docs.openstack.org/user-guide-admin/index.html
 [a_bg]: http://openstack.prov12n.com/author/openstackpro/
 [a_sy]: http://docs.openstack.org/kilo/install-guide/install/apt/content/
