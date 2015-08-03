@@ -39,6 +39,7 @@ This provides the discovery, registration and delivery services for the disk and
 ## Articles
 
 Recommended: Steve Yegge – **OpenStack DocumentationOpenStack Installation Guide for Ubuntu 14.04** [[web][a_sy]]
+Recommended: OpenStack Admin User Guide [[web][a_au]]
 * **OpenStack Juno Neutron Deployment**[[web][a_cc]]
 * **OpenStack Fundamentals Training Part 2 Compute**[[pdf][a_wb]]
 * **Professional OpenStack** [[blog][a_bg]]
@@ -49,6 +50,7 @@ Recommended: Steve Yegge – **OpenStack DocumentationOpenStack Installation Gui
 * **All in single node installation for openstack**- by Flux7 Labs [[web][a_i1]]
 * **Openstack in multi-node installation**- by Flux7 Labs [[web][a_i2]]
 
+[a_au]: http://docs.openstack.org/user-guide-admin/index.html
 [a_bg]: http://openstack.prov12n.com/author/openstackpro/
 [a_sy]: http://docs.openstack.org/kilo/install-guide/install/apt/content/
 [a_cb]: http://getcloudify.org/2014/07/18/openstack-wiki-open-cloud.html#at_pco=cfd-1.0&at_ab=per-2&at_pos=0&at_tot=3&at_si=5593a074a7e071e7
