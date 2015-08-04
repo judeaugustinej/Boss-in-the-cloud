@@ -24,6 +24,11 @@ which checks in with the master node either at specified intervals, or with a ma
 ## Articles
 
 * Recommended: Alessandro Franceschi – **Puppet Tutorial** [[web-PPT][a_sy]]
+* Linode - **Basic Puppet Setup and Configuration** [[web-BLOG][a_b1]]
+* Linode - **Manage and Automate Systems Configuration with Puppet** [[web-BLOG][a_b2]]
+
 
 
 [a_sy]: http://www.example42.com/tutorials/PuppetTutorial/#slide-0
+[a_b1]: https://www.linode.com/docs/websites/puppet/basic-puppet-setup-and-configuration
+[a_b2]: https://www.linode.com/docs/websites/puppet/manage-and-automate-systems-configuration-with-puppet/
