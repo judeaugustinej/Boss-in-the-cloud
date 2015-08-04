@@ -3,7 +3,7 @@
 ```
 Puppet is an open-source tool that helps system administrators manage server configurations
 ```
-
+![puppet](https://cloud.githubusercontent.com/assets/3624858/9054617/e9237732-3aa0-11e5-93a9-ca189b6eee01.png)
 ```
 Puppet uses the client/server model. The master server runs puppetmasterd,
 which stores the configuration description and resource files for several server nodes,
