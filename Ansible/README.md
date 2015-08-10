@@ -22,13 +22,13 @@ Ansible
 * Curtis Collicutt  - **Provision Configure Openstack instances one ansible run**  [[web][a_aro]]
 * Justin Ellingwood - **How to Use Ansible Roles to Abstract your Infrastructure Environment** [[web][a_rol]]
 * Hector Castro     - **Creating Ansible Roles from Scratch: Part 1** [[web][a_roo]]
-
+* Nick Kuechler     - **Build Rackspace Cloud Servers with Ansible in a Virtualenv** [[blog][a_r1]]
 [a_cb]: https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-an-ubuntu-12-04-vps
 [a_ar]: https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
 [a_aro]: http://serverascode.com//2014/08/19/provision-openstack-instances-with-ansible.html
 [a_rol]: https://www.digitalocean.com/community/tutorials/how-to-use-ansible-roles-to-abstract-your-infrastructure-environment
 [a_roo]: http://www.azavea.com/blogs/labs/2014/10/creating-ansible-roles-from-scratch-part-1/
-
+[a_r1]: http://nicholaskuechler.com/tag/rackspace/
 ## Guides
 
 * **Ansible Documentation** [[web][g_cc]]
