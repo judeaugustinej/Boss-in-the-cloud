@@ -9,10 +9,8 @@ Like those services, the deployment of Neutron involves deploying several proces
 ### Contents
 
 * [Articles](#articles)
-* [Coding](#coding)
-* [Guides](#guides)
-* [Language-specific](#language-specific)
-    * [Python](#python)
+* [python-neturonclient](#python-neutronclient)
+
 * [Maths](#maths)
 * [Misc](#misc)
 * [Questions](#questions)
@@ -36,3 +34,4 @@ Like those services, the deployment of Neutron involves deploying several proces
 [a_c3]: https://developer.rackspace.com/blog/neutron-networking-l3-agent/
 [a_c4]: https://developer.rackspace.com/blog/neutron-networking-vlan-provider-networks/
 
+#python-neturonclient
