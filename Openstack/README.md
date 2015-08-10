@@ -69,8 +69,12 @@ Recommended: OpenStack Admin User Guide [[web][a_au]]
 ### Python
 
 Recommended: **Install the OpenStack command-line clients** (http://docs.openstack.org/user-guide/common/cli_install_openstack_command_line_clients.html)
+
+Recommended: **OPENSTACK CLOUD ADMINISTRATOR GUIDE** [[web][a_zz]]
 * [OpenStack command-line interface cheat sheet](http://docs.openstack.org/user-guide/cli_cheat_sheet.html)
 * [debian-ubuntu-centos-rhel-linux-install-pipclient](http://www.cyberciti.biz/faq/debian-ubuntu-centos-rhel-linux-install-pipclient/)
 * [Python APIs: The best-kept secret of OpenStack](http://www.ibm.com/developerworks/cloud/library/cl-openstack-pythonapis/)
 * [How to launch an instance on OpenStack (III): Python novaclient library](https://albertomolina.wordpress.com/2013/11/20/how-to-launch-an-instance-on-openstack-iii-python-novaclient-library/)
 * [Installing and Configuring Piston OpenStack](http://docs.pistoncloud.com/installation/index.html)
+
+[a_zz]: http://docs.openstack.org/admin-guide-cloud/content/ch_preface.html
