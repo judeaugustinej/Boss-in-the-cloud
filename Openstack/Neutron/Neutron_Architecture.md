@@ -36,11 +36,11 @@ Requires message queue access.
 ###In addition, Networking integrates with OpenStack components in a number of ways:
 
 * Networking relies on the Identity service (keystone) for the authentication and authorization of all API requests.
-
-*Compute (nova) interacts with Networking through calls to its standard API. 
+```
+Compute (nova) interacts with Networking through calls to its standard API. 
 As part of creating a VM, the nova-compute service communicates with the Networking API to plug each 
 virtual NIC on the VM into a particular network.
-
+```
 * The dashboard (horizon) integrates with the Networking API, enabling administrators and 
 * tenant users to create and manage network services through a web-based GUI.
 
