@@ -50,7 +50,11 @@ Recommended: OpenStack Admin User Guide [[web][a_au]]
 * Anita Kuno  - **Installing Devstack With Vagrant** [[web][a_cb]]
 * **All in single node installation for openstack**- by Flux7 Labs [[web][a_i1]]
 * **Openstack in multi-node installation**- by Flux7 Labs [[web][a_i2]]
+* **Understanding the OpenStack CI System** [[web][c_12]]
+* **OpenStack QA – Walkthrough of Processes, Tools and Code** [[pdf][w_12]]
 
+[w_12]: http://joinfu.com/presentations/openstack-qa-processes/openstack-qa-processes.pdf
+[c_12]: http://www.joinfu.com/2014/01/understanding-the-openstack-ci-system/
 [a_bc]: https://www.mirantis.com/blog/tutorial-openstack-live-migration-with-kvm-hypervisor-and-nfs-shared-storage/
 [a_au]: http://docs.openstack.org/user-guide-admin/index.html
 [a_bg]: http://openstack.prov12n.com/author/openstackpro/
