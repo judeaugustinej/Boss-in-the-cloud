@@ -17,19 +17,25 @@ and virtual private networks, to be deployed and managed.
 ```
 A network provides connectivity to and from instances.
 
-Tenant networks are networks created by users within tenants, or groups of users. By default, networks created with tenants are not shared among other tenants. Useful network types in this category are vlan (802.1q tagged) and gre (unique id). With the use of the L3 agent and Neutron routers, it is possible to route between GRE-based tenant networks. Without a Neutron router, these networks are effectively isolated from each other (and everything else, for that matter).
+Tenant networks are networks created by users within tenants, or groups of users. 
+By default, networks created with tenants are not shared among other tenants.
+Useful network types in this category are vlan (802.1q tagged) and gre (unique id).
+With the use of the L3 agent and Neutron routers, it is possible to route between GRE-based tenant networks. 
+Without a Neutron router, these networks are effectively isolated from each other (and everything else, for that matter).
 ```
 
 ###subnets
 ```
-A subnetwork, or subnet, is a logical, visible subdivision of an IP network. The practice of dividing a network into two or more networks is called subnetting.
-
+A subnetwork, or subnet, is a logical, visible subdivision of an IP network.
+The practice of dividing a network into two or more networks is called subnetting.
 Computers that belong to a subnet are addressed with a common, identical, most-significant bit-group in their IP address. This results in the logical division of an IP address into two fields, a network or routing prefix and the rest field or host identifier. The rest field is an identifier for a specific host or network interface.
 ```
 
 ###ports
 ```
-In computer networking, a port is a software construct serving as a communications endpoint in a computer’s host operating system. A port is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination address of a communications session. A port is identified for each address and protocol by a 16-bit number, commonly known as the port number.
+In computer networking, a port is a software construct serving as a communications endpoint in a computer’s host operating system.
+A port is always associated with an IP address of a host and the protocol type of the communication.
+It completes the destination or origination address of a communications session. A port is identified for each address and protocol by a 16-bit number, commonly known as the port number.
 ```
 
 ###Security Groups
@@ -103,22 +109,31 @@ gateways.
 The management network is used for internal communication between hosts
 for services, such as the messaging service and database service. All hosts will
 communicate with each other over this network. 
+
+Used for internal communication between OpenStack Components.
+IP address reachable within the data-center(Management Security Domain)
 ```
 ### API
 ```
 The API network is used to expose OpenStack APIs to users of the cloud and services
 within the cloud. Endpoint addresses for services, such as Keystone, Neutron,
 Glance, and Horizon, are procured from the API network.
+
+ This network is considered the Public Security Domain.
 ```
 ### External
 ```
-Once a router
-has been configured, this network becomes the source of floating IP addresses for
+ The IP addresses on this network should be reachable by anyone
+on the Internet(Public security Domain).
+
+Once a router has been configured, this network becomes the source of floating IP addresses for
 instances and load balancer VIPs. IP addresses in this network should be reachable
 by any client on the Internet.
 ```
 ### Guest
 ```
+Used for VM data communication within the cloud deployment. 
+ (Guest Security Domain)
 The guest network is a network dedicated to instance traffic
 ```
 
