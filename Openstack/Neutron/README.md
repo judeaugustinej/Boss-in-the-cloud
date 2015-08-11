@@ -92,6 +92,36 @@ Neutron
 provides a set of APIs to allow tenants to create IPSec-based VPN tunnels to remote
 gateways.
 ```
+
+## Types of network traffic
+* Management
+* API
+* External
+* Guest
+### Management
+```
+The management network is used for internal communication between hosts
+for services, such as the messaging service and database service. All hosts will
+communicate with each other over this network. 
+```
+### API
+```
+The API network is used to expose OpenStack APIs to users of the cloud and services
+within the cloud. Endpoint addresses for services, such as Keystone, Neutron,
+Glance, and Horizon, are procured from the API network.
+```
+### External
+```
+Once a router
+has been configured, this network becomes the source of floating IP addresses for
+instances and load balancer VIPs. IP addresses in this network should be reachable
+by any client on the Internet.
+```
+### Guest
+```
+The guest network is a network dedicated to instance traffic
+```
+
 ### Contents
 
 * [Articles](#articles)
