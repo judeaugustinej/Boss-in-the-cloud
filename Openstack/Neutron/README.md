@@ -6,7 +6,13 @@ alongside other services such as Nova (Compute),
 Glance (Image), Keystone (authentication), and Horizon (Dashboard).
 Like those services, the deployment of Neutron involves deploying several processes on each host.
 ```
-
+```
+Neutron provides cloud operators
+and users with an API to create and manage networks in the cloud.
+An extension
+framework allows for additional network services, such as load balancing, firewalls,
+and virtual private networks, to be deployed and managed.
+```
 ###network
 ```
 A network provides connectivity to and from instances.
@@ -39,7 +45,53 @@ A virtual interface works in the same way as the network interface card (NIC) in
 
 You can create a maximum of one virtual interface per instance per network.
 ```
+##Features of OpenStack Networking
+###Virtual switch
+```
+Connect VM at layer 2.
+Neutron supports multiple virtual switching platforms, including built-in Linux bridging
+and Open vSwitch.
+Open vSwitch, also known as OVS, is an open source virtual
+switch that supports standard management interfaces and protocols, including
+NetFlow, SPAN, RSPAN, LACP, and 802.1q, though many of these features are not
+exposed to the user through the OpenStack API.
+In addition to VLAN tagging, users
+can build overlay networks in software using L2-in-L3 tunneling protocols, such as
+GRE or VXLAN. Open vSwitch can be used to facilitate communication between
+instances and devices outside the control of OpenStack, which include hardware
+switches, network firewalls, storage devices, dedicated servers, and more. 
+```
+###Routing
+```
+NAT capabilities through the use of IP
+forwarding, iptables, and network namespaces.
+Each network
+namespace has its own routing table and iptables process that provide filtering
+and network address translation, also known as NAT.
+Configuring a router within Neutron enables
+instances to interact and communicate with outside networks
+```
 
+###Load balancing
+```
+First introduced in the Grizzly release of OpenStack, Load-Balancing-as-a-Service,
+also known as LBaaS, provides users the ability to distribute client requests across
+multiple instances or servers. Havana is equipped with a plugin for LBaaS that
+utilizes HAProxy as the load balancer.
+```
+###Firewalling
+```
+In Havana, there are two methods of providing security to instances or networks:
+security groups and firewalls
+```
+### Virtual private networks
+```
+A VPN enables a computer to send and receive data across
+public networks as if it were directly connected to the private network.
+Neutron
+provides a set of APIs to allow tenants to create IPSec-based VPN tunnels to remote
+gateways.
+```
 ### Contents
 
 * [Articles](#articles)
