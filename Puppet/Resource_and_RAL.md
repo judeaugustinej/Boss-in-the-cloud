@@ -84,3 +84,4 @@ Providers
 directoryservice, hpuxuseradd, ldap, pw, user_role_add, useradd
 ```
 
+[puppet core types cheatsheet](https://docs.puppetlabs.com/puppet_core_types_cheatsheet.pdf)
