@@ -23,4 +23,4 @@ do the needful.
 ```
 
 ###Resource---(type, title, attributes, and values)
-
+![puppet-resource](https://cloud.githubusercontent.com/assets/3624858/9223139/11e6ae9e-4115-11e5-898d-3f5898bbcf04.png)
