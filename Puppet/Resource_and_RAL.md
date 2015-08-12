@@ -1,4 +1,4 @@
-###Resources
+###What is Resources ?
 ```
 Collection of system configuration is known as resources.
 Any resource is very similar to a class of related things: every file has a path and an owner, and􀀀
@@ -24,3 +24,17 @@ do the needful.
 
 ###Resource---(type, title, attributes, and values)
 ![puppet-resource](https://cloud.githubusercontent.com/assets/3624858/9223139/11e6ae9e-4115-11e5-898d-3f5898bbcf04.png)
+
+#### Resource shell
+```
+Puppet ships with a tool called puppet resource, which uses the RAL to let you query and modify
+your system from the shell.
+```
+*Puppet resourceʼs first argument is a resource type.*
+```
+$ puppet resource user
+```
+*Retrieving a specific resourceʼs state by providing a resource name as a second argument*
+```
+$ puppet resource user root
+```
