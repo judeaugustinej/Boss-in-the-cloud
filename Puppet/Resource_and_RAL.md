@@ -37,4 +37,27 @@ $ puppet resource user
 *Retrieving a specific resourceʼs state by providing a resource name as a second argument*
 ```
 $ puppet resource user root
+
+user { 'root':
+Puppet Documentation • Learning — Resources and the RAL 7/311
+home => '/var/root',
+shell => '/bin/sh',
+uid => '0',
+ensure => 'present',
+password => '*',
+gid => '0',
+comment => 'System Administrator'
+}
+
+```
+*Overwriting resource attributes*
+```
+$ puppet resource user dave ensure=present shell="/bin/zsh" home="/home/dave"
+managehome=true
+notice: /User[dave]/ensure: created
+user { 'dave':
+ensure => 'present',
+home => '/home/dave',
+shell => '/bin/zsh'
+}
 ```
