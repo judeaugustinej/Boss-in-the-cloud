@@ -61,3 +61,26 @@ home => '/home/dave',
 shell => '/bin/zsh'
 }
 ```
+*More on each type*
+```
+$ puppet describe -s user
+Puppet Documentation • Learning — Resources and the RAL 8/311
+user
+====
+Manage users. This type is mostly built to manage system
+users, so it is lacking some features useful for managing normal
+users.
+This resource type uses the prescribed native tools for creating
+groups and generally uses POSIX APIs for retrieving information
+about them. It does not directly modify `/etc/passwd` or anything.
+Parameters
+----------
+allowdupe, auth_membership, auths, comment, ensure, expiry, gid, groups,
+home, key_membership, keys, managehome, membership, name, password,
+password_max_age, password_min_age, profile_membership, profiles,
+project, role_membership, roles, shell, uid
+Providers
+---------
+directoryservice, hpuxuseradd, ldap, pw, user_role_add, useradd
+```
+
