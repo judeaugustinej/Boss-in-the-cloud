@@ -29,6 +29,18 @@ and can be retrieved with a single API call without the overhead associated with
 Object Storage systems have internal mechanisms to verify file consistency,
 and handle failed drives, bit-rot, server and cabinet failures, etc.
 ```
+#### Erasure coding (EC)
+```
+It is a method of data protection in which data is broken into fragments,
+expanded and encoded with redundant data pieces and 
+stored across a set of different locations or storage media.
+```
+####RAID 
+```
+(originally redundant array of inexpensive disks, now commonly redundant array of independent disks)
+is a data storage virtualization technology that combines multiple physical disk drive components 
+into a single logical unit for the purposes of data redundancy, performance improvement, or both.
+```
 ### Contents
 
 
@@ -42,6 +54,8 @@ and handle failed drives, bit-rot, server and cabinet failures, etc.
 
 ## Articles
 
-Recommended:  Jonathan Kelly – **Introduction To Object Storage** [[web][a_sy]]
-
+* Recommended:  Jonathan Kelly – **Introduction To Object Storage** [[web][a_sy]]
+* Jonathan Kelly - **What Can Object Storage Do For Me Today?** [[web][a_ss]]
+* 
 [a_sy]: http://www.rackspace.com/blog/introduction-to-object-storage/
+[a_ss]: http://www.rackspace.com/blog/what-can-object-storage-do-for-me-today/
