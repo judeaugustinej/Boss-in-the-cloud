@@ -60,6 +60,7 @@ case).
 *The puppet cert command is used to sign, list and examine certificates used by Puppet to secure􀀀
 the connection between the Puppet master and agents.*
 *Certificates with a + next to them are signed.*
+https://hurricanelabs.com/blog/managing-puppet-certificates/
 ```
 > puppet cert --list
 agent.example.com
