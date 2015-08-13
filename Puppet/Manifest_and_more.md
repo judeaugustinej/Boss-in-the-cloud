@@ -60,3 +60,4 @@ notify {"I'm notifying you.":} # Whitespace is fungible, remember.
 notify {"So am I!":}
 
 ```
+####Namevars and Titles
