@@ -34,5 +34,24 @@ Chef provides a framework for fully automating infrastructure, and has some impo
 ##Chef API provides a client/server service for configuration management in your infrastructure. 
 
 ![chef-architecture](https://cloud.githubusercontent.com/assets/3624858/9300051/c7c3727e-44df-11e5-9b61-18a043c741fd.png)
+```
 
+```
 ![chef-working](https://cloud.githubusercontent.com/assets/3624858/9300259/9752a39c-44e1-11e5-8cb9-09f3c41f624f.png)
+### Contents
+
+
+* [Articles](#articles)
+* [Guides](#guides)
+* [Language-specific](#language-specific)
+    * [Python](#python)
+* [Videos](#videos)
+* [other repos](#similar-github-repos)
+
+
+
+## Articles
+
+* Just Enough Ruby for Chef [[web][c_c1]]
+
+[c_c1]: http://docs.chef.io/release/12-4/ruby.html
