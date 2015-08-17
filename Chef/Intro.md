@@ -55,3 +55,7 @@ Chef provides a framework for fully automating infrastructure, and has some impo
 * Just Enough Ruby for Chef [[web][c_c1]]
 
 [c_c1]: http://docs.chef.io/release/12-4/ruby.html
+http://surge.omniti.com/2014/presentations/IntroductionToChef_NathenHarvey.pdf
+https://www.safaribooksonline.com/library/view/learning-chef/9781491945087/ch01.html
+http://docs.chef.io/release/12-4/chef_overview.html
+http://gettingstartedwithchef.com/first-steps-with-chef.html
