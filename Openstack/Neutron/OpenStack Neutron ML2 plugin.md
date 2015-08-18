@@ -16,6 +16,10 @@ ML2 still supports existing Layer2 agents via RPC interface however.
 Some examples include openvswitch, linuxbridge and Hyper-V.
 ```
 ![ml2-type-mechanism](https://cloud.githubusercontent.com/assets/3624858/9327996/6e7cb76e-45c2-11e5-91e8-37658a0cf614.png)
+
 *How does the ML2 plugin work?*
+
 *How can I use Neutron’s ML2 plugin in my OpenStack cloud?*
+
 *Where can I get more information about ML2?*
+http://aqorn.com/understanding-openstack-neutron-ml2-plugin/
