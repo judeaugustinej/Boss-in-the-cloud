@@ -23,3 +23,24 @@ Some examples include openvswitch, linuxbridge and Hyper-V.
 
 *Where can I get more information about ML2?*
 http://aqorn.com/understanding-openstack-neutron-ml2-plugin/
+
+### Contents
+
+
+* [Articles](#articles)
+* [Guides](#guides)
+* [Language-specific](#language-specific)
+    * [Python](#python)
+* [Videos](#videos)
+* [other repos](#similar-github-repos)
+
+## Articles
+
+Recommended: **Neutron/ML24** [[docs][a_sy]]
+Recommended: **Cisco-neutron** [[docs][a_s1]]
+* Adam Lawson - **Understanding OpenStack Neutron ML2 Plugin1037**[[blog][a_pd]]
+* 
+
+[a_sy]: https://wiki.openstack.org/wiki/Neutron/ML2
+[a_s1]: https://wiki.openstack.org/wiki/Cisco-neutron
+[a_pd]: http://aqorn.com/understanding-openstack-neutron-ml2-plugin/
