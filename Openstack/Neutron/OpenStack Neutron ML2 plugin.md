@@ -44,3 +44,4 @@ Recommended: **Cisco-neutron** [[docs][a_s1]]
 [a_sy]: https://wiki.openstack.org/wiki/Neutron/ML2
 [a_s1]: https://wiki.openstack.org/wiki/Cisco-neutron
 [a_pd]: http://aqorn.com/understanding-openstack-neutron-ml2-plugin/
+http://events.linuxfoundation.org/sites/events/files/slides/ODL%20and%20OpenStack%20-%20Workshop_0.pdf
