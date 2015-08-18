@@ -21,3 +21,10 @@ Requests from a unique source IP address are consistently directed to the same i
 Allocates requests to the instance with the least number of active connections.
 ```
 how to install it ?? how to use it ?? fix bugs ??
+
+http://www.yet.org/2015/05/mos6-lbaas/
+http://www.yet.org/2014/09/openvswitch-troubleshooting/
+http://www.yet.org/2014/12/mos-6/
+http://blog.anynines.com/openstack-neutron-lbaas/
+https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux_OpenStack_Platform/4/html/Installation_and_Configuration_Guide/Configuring_Load_Balancing_as_a_Service_LBaas.html
+http://networkstatic.net/installing-openstack-ml2-neutron-plugin-devstack-fedora/
