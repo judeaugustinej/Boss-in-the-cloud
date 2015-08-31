@@ -83,10 +83,4 @@ Recommended: **OPENSTACK CLOUD ADMINISTRATOR GUIDE** [[web][a_zz]]
 
 [a_zz]: http://docs.openstack.org/admin-guide-cloud/content/ch_preface.html
 
-##TODO
-*What is a Neutron plugin
-*how Neutron API calls are dispatched to it
-*Do I need to write a new plugin? * What are my options for adding capabilities to existing plugins? 
-** Where to start from * Implementing the Neutron API - the 'sendmail' plugin
-https://www.openstack.org/summit/openstack-summit-hong-kong-2013/session-videos/presentation/how-to-write-a-neutron-plugin-if-you-really-need-to
 
