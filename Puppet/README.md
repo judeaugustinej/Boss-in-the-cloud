@@ -27,9 +27,15 @@ which checks in with the master node either at specified intervals, or with a ma
 * Linode - **Basic Puppet Setup and Configuration** [[web-BLOG][a_b1]]
 * Linode - **Manage and Automate Systems Configuration with Puppet** [[web-BLOG][a_b2]]
 *  Dhruv Soi - Puppet Show: Automating UNIX Administration [[web][a_b3]]
+* Recommended: PuppetCookbook [[web][a_b4]]
+* PuppetLabs: Core cheat sheets [[pdf][a_b5]]
+* PuppetLabs: Latest Docs **MuST sEE** [[web][a_b6]]
 
 
 [a_sy]: http://www.example42.com/tutorials/PuppetTutorial/#slide-0
 [a_b1]: https://www.linode.com/docs/websites/puppet/basic-puppet-setup-and-configuration
 [a_b2]: https://www.linode.com/docs/websites/puppet/manage-and-automate-systems-configuration-with-puppet/
 [a_b3]: http://opensourceforu.efytimes.com/2009/06/puppet-show-automating-unix-administration/
+[a_b4]: http://www.puppetcookbook.com/posts/creating-a-directory-tree.html
+[a_b5]: https://docs.puppetlabs.com/puppet_core_types_cheatsheet.pdf
+[a_b6]: https://docs.puppetlabs.com/puppet/latest/reference/lang_relationships.html
